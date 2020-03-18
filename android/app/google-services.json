@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "167745385524",
+    "firebase_url": "https://permanager-83e40.firebaseio.com",
+    "project_id": "permanager-83e40",
+    "storage_bucket": "permanager-83e40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167745385524:android:6944beeb9706695a0a8661",
+        "android_client_info": {
+          "package_name": "com.example.permanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167745385524-j20c5i7ljc9a8r83jrkr2cordqjq0f8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJvd0jiafCbUMWPAh3Gy6yw6IMnRJvnsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167745385524-j20c5i7ljc9a8r83jrkr2cordqjq0f8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
